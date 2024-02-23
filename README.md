@@ -14,7 +14,7 @@ Welcome to LondonCycleInsights, where data meets the open road! This project is 
 
 1. **Data Source:** The project relies on the [Kaggle London Bike Sharing Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset).
 
-2. **Tableau Visualization:** Access the interactive Tableau visualization [here](https://public.tableau.com/app/profile/mohamed.eddahby/vizzes).
+2. **Tableau Visualization:** Access the interactive Tableau visualization [here](https://public.tableau.com/app/profile/mohamed.eddahby/viz/Tableau-LondonCycleInsights/Dashboard).
 
 3. **Files Included:**
 
